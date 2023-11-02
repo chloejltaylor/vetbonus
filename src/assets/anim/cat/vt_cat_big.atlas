@@ -1,0 +1,125 @@
+
+vt_cat_big.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 287, 235
+  size: 275, 154
+  orig: 275, 154
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 282, 25
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 507, 285
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 596, 2
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 150
+  size: 360, 283
+  orig: 360, 283
+  offset: 0, 0
+  index: -1
+leg_bk_a
+  rotate: true
+  xy: 406, 49
+  size: 115, 113
+  orig: 115, 113
+  offset: 0, 0
+  index: -1
+leg_bk_b
+  rotate: true
+  xy: 2, 16
+  size: 132, 112
+  orig: 132, 112
+  offset: 0, 0
+  index: -1
+leg_fr_a
+  rotate: false
+  xy: 521, 54
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+leg_fr_a_cast
+  rotate: false
+  xy: 586, 56
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+leg_fr_b
+  rotate: true
+  xy: 507, 340
+  size: 170, 60
+  orig: 170, 60
+  offset: 0, 0
+  index: -1
+leg_fr_b_cast
+  rotate: true
+  xy: 558, 168
+  size: 170, 60
+  orig: 170, 60
+  offset: 0, 0
+  index: -1
+leg_long_a
+  rotate: true
+  xy: 390, 166
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 406, 3
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 501, 3
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+tail_a
+  rotate: true
+  xy: 116, 20
+  size: 128, 164
+  orig: 128, 164
+  offset: 0, 0
+  index: -1
+tail_b
+  rotate: true
+  xy: 443, 267
+  size: 243, 62
+  orig: 243, 62
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: false
+  xy: 287, 165
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1

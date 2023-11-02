@@ -1,0 +1,76 @@
+
+char_vt_big.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big/arm_big
+  rotate: true
+  xy: 528, 68
+  size: 95, 167
+  orig: 95, 167
+  offset: 0, 0
+  index: -1
+big/ear_f_big
+  rotate: false
+  xy: 573, 379
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+big/ear_n_big
+  rotate: false
+  xy: 528, 165
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+big/eye_big
+  rotate: false
+  xy: 693, 5
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+big/head_big
+  rotate: true
+  xy: 2, 2
+  size: 506, 403
+  orig: 506, 403
+  offset: 0, 0
+  index: -1
+big/hips_big
+  rotate: true
+  xy: 407, 166
+  size: 145, 119
+  orig: 145, 119
+  offset: 0, 0
+  index: -1
+big/hips_coverup_big
+  rotate: true
+  xy: 407, 19
+  size: 145, 119
+  orig: 145, 119
+  offset: 0, 0
+  index: -1
+big/leg_big
+  rotate: true
+  xy: 528, 10
+  size: 56, 163
+  orig: 56, 163
+  offset: 0, 0
+  index: -1
+big/mouth_big
+  rotate: false
+  xy: 573, 348
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+big/torso_big
+  rotate: false
+  xy: 407, 313
+  size: 164, 195
+  orig: 164, 195
+  offset: 0, 0
+  index: -1

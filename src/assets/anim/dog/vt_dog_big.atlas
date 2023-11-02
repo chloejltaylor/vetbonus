@@ -1,0 +1,76 @@
+
+vt_dog_big.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 386, 282
+  size: 224, 204
+  orig: 224, 204
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: false
+  xy: 164, 14
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 129, 15
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+flea_a
+  rotate: true
+  xy: 198, 35
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+flea_b
+  rotate: true
+  xy: 198, 10
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 69
+  size: 437, 382
+  orig: 437, 382
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 2, 2
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: true
+  xy: 386, 41
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 476, 41
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 386, 136
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: -1

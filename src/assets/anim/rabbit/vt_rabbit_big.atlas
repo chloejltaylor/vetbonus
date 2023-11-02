@@ -1,0 +1,111 @@
+
+vt_rabbit_big.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 271, 305
+  size: 182, 201
+  orig: 182, 201
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 2, 68
+  size: 103, 223
+  orig: 103, 223
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: true
+  xy: 227, 68
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 382, 124
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 173
+  size: 333, 267
+  orig: 333, 267
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 244, 12
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+leg_bk
+  rotate: true
+  xy: 271, 178
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+leg_floppy
+  rotate: true
+  xy: 389, 200
+  size: 103, 93
+  orig: 103, 93
+  offset: 0, 0
+  index: -1
+leg_long
+  rotate: true
+  xy: 2, 2
+  size: 64, 144
+  orig: 64, 144
+  offset: 0, 0
+  index: -1
+leg_thorn
+  rotate: false
+  xy: 227, 102
+  size: 153, 69
+  orig: 153, 69
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: true
+  xy: 417, 108
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 453, 16
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 348, 2
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+thorn
+  rotate: true
+  xy: 282, 68
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+whiskers
+  rotate: false
+  xy: 148, 3
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1

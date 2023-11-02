@@ -1,0 +1,172 @@
+{"frames": {
+
+"diagnostic_examine.png":
+{
+	"frame": {"x":1514,"y":628,"w":140,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":157},
+	"sourceSize": {"w":140,"h":157}
+},
+"diagnostic_xray_cat.png":
+{
+	"frame": {"x":1,"y":1,"w":653,"h":377},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":90,"w":653,"h":377},
+	"sourceSize": {"w":653,"h":468}
+},
+"diagnostic_xray_dog.png":
+{
+	"frame": {"x":1252,"y":1,"w":470,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":0,"w":470,"h":474},
+	"sourceSize": {"w":540,"h":474}
+},
+"diagnostic_xray_rabbit.png":
+{
+	"frame": {"x":1,"y":380,"w":460,"h":569},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":460,"h":569},
+	"sourceSize": {"w":489,"h":570}
+},
+"icon_diagnostic_examine.png":
+{
+	"frame": {"x":1136,"y":779,"w":166,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":8,"w":166,"h":158},
+	"sourceSize": {"w":174,"h":174}
+},
+"icon_diagnostic_mag_glass.png":
+{
+	"frame": {"x":1304,"y":779,"w":161,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":161,"h":161},
+	"sourceSize": {"w":174,"h":174}
+},
+"icon_diagnostic_xray.png":
+{
+	"frame": {"x":1467,"y":787,"w":172,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":172,"h":116},
+	"sourceSize": {"w":174,"h":174}
+},
+"icon_treatment_bandage.png":
+{
+	"frame": {"x":1630,"y":477,"w":134,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":20,"w":134,"h":141},
+	"sourceSize": {"w":174,"h":174}
+},
+"icon_treatment_flea.png":
+{
+	"frame": {"x":1724,"y":1,"w":112,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":5,"w":112,"h":156},
+	"sourceSize": {"w":174,"h":174}
+},
+"icon_treatment_tweezers.png":
+{
+	"frame": {"x":1724,"y":159,"w":89,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":12,"w":89,"h":154},
+	"sourceSize": {"w":174,"h":174}
+},
+"treatment_bandage_01.png":
+{
+	"frame": {"x":1252,"y":477,"w":376,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":376,"h":149},
+	"sourceSize": {"w":376,"h":150}
+},
+"treatment_bandage_02.png":
+{
+	"frame": {"x":463,"y":380,"w":191,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":191,"h":122},
+	"sourceSize": {"w":376,"h":150}
+},
+"treatment_bandage_03.png":
+{
+	"frame": {"x":1136,"y":628,"w":376,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":376,"h":149},
+	"sourceSize": {"w":376,"h":150}
+},
+"treatment_bandage_hand_01.png":
+{
+	"frame": {"x":656,"y":1,"w":594,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":594,"h":289},
+	"sourceSize": {"w":594,"h":290}
+},
+"treatment_bandage_hand_02.png":
+{
+	"frame": {"x":656,"y":292,"w":594,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":594,"h":289},
+	"sourceSize": {"w":594,"h":290}
+},
+"treatment_flea_drop.png":
+{
+	"frame": {"x":463,"y":504,"w":45,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":61},
+	"sourceSize": {"w":45,"h":61}
+},
+"treatment_flea_hand.png":
+{
+	"frame": {"x":852,"y":583,"w":282,"h":353},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":353},
+	"sourceSize": {"w":282,"h":353}
+},
+"treatment_fleas.png":
+{
+	"frame": {"x":1656,"y":620,"w":185,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":189},
+	"sourceSize": {"w":185,"h":189}
+},
+"treatment_thorn.png":
+{
+	"frame": {"x":1724,"y":315,"w":73,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":87},
+	"sourceSize": {"w":73,"h":87}
+},
+"treatment_tweezers.png":
+{
+	"frame": {"x":463,"y":583,"w":387,"h":310},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":310},
+	"sourceSize": {"w":387,"h":310}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet_vet_diag_treat.png",
+	"format": "RGBA8888",
+	"size": {"w":1842,"h":950},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:47c2f7ace91d7a2c10fd0b897597d3d1:9ae59830c675707e906126fa6c58309d:03d9b6f0da4e3b06b8df8ddafbdcee36$"
+}
+}

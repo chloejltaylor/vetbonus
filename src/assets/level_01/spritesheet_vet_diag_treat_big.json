@@ -1,0 +1,44 @@
+{"frames": {
+
+"diagnostic_mag_glass_cat.png":
+{
+	"frame": {"x":1085,"y":1,"w":930,"h":822},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":930,"h":822},
+	"sourceSize": {"w":931,"h":822}
+},
+"diagnostic_mag_glass_dog.png":
+{
+	"frame": {"x":1,"y":621,"w":930,"h":822},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":930,"h":822},
+	"sourceSize": {"w":931,"h":822}
+},
+"diagnostic_mag_glass_rabbit.png":
+{
+	"frame": {"x":933,"y":825,"w":930,"h":822},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":930,"h":822},
+	"sourceSize": {"w":931,"h":822}
+},
+"diagnostic_xray_screen.png":
+{
+	"frame": {"x":1,"y":1,"w":1082,"h":618},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1082,"h":618},
+	"sourceSize": {"w":1082,"h":618}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet_vet_diag_treat_big.png",
+	"format": "RGBA8888",
+	"size": {"w":2016,"h":1648},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7252e61a567a49e32c53a9699b81765:866606acc900dc04e985c49036e23f47:43a3d5d19938e0d613320762b461a730$"
+}
+}
